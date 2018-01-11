@@ -1,0 +1,3 @@
+# Empty .npmignore file so that NPM will still pick up the .gitignored files
+
+src
