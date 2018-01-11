@@ -7,13 +7,16 @@
     "test": "test"
   },
   "dependencies": {
-    "typescript": "^2.6.1"
   },
   "devDependencies": {
-    "mocha": "^4.1.0"
+    "@types/mocha": "^2.2.46",
+    "@types/node": "^9.3.0",
+    "mocha": "^4.1.0",
+    "typescript": "^2.6.1"
   },
   "scripts": {
-    "test": "mocha"
+    "build": "tsc",
+    "test": "mocha lib/test"
   },
   "repository": {
     "type": "git",
