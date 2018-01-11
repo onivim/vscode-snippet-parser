@@ -1,0 +1,28 @@
+{
+  "name": "vscode-snippet-parser",
+  "version": "0.0.1",
+  "description": "VSCode's snippet parsing logic",
+  "main": "lib/snippetParser.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "typescript": "^2.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onivim/vscode-snippet-parser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onivim/vscode-snippet-parser/issues"
+  },
+  "homepage": "https://github.com/onivim/vscode-snippet-parser#readme"
+}
