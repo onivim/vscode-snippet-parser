@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "VSCode's snippet parsing logic",
   "main": "lib/snippetParser.js",
-  "directories": {
-    "test": "test"
-  },
+  "files": [
+    "lib"
+  ],
   "dependencies": {
   },
   "devDependencies": {
