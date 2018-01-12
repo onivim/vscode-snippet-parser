@@ -1,6 +1,6 @@
 {
   "name": "vscode-snippet-parser",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "VSCode's snippet parsing logic",
   "main": "lib/src/snippetParser.js",
   "files": [
